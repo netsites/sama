@@ -2,3 +2,12 @@
 /SAMA/.vs/config/applicationhost.config
 /SAMA/SAMA/bin
 /SAMA/SAMA/obj/Debug
+/SAMA/SAMA.Entities/bin/Debug
+/SAMA/SAMA.Entities/bin/Release
+/SAMA/SAMA.Entities/obj/Debug
+/SAMA/SAMA.Entities/obj/Release
+/SAMA/SAMA/obj/Release/AspnetCompileMerge/Source/App_Data
+/SAMA/SAMA/obj/Release/AspnetCompileMerge/Source
+/SAMA/SAMA/obj/Release/AspnetCompileMerge/TempBuildDir/App_Data
+/SAMA/SAMA/obj/Release/AspnetCompileMerge/TempBuildDir
+/SAMA/SAMA/obj/Release
