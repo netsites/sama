@@ -17,9 +17,9 @@ namespace SAMA.Controllers
         private SamaContext db = new SamaContext();
 
         // GET: api/Routines
-        public IQueryable<Routine> GetRoutines()
+        public IEnumerable<Routine> GetRoutines()
         {
-            return db.Routines;
+            return db.Routines.ToList();
         }
 
         // GET: api/Routines/5

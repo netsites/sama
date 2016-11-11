@@ -17,9 +17,9 @@ namespace SAMA.Controllers
         private SamaContext db = new SamaContext();
 
         // GET: api/Serieses
-        public IQueryable<Series> GetSerieses()
+        public IEnumerable<Series> GetSerieses()
         {
-            return db.Serieses;
+            return db.Serieses.ToList();
         }
 
         // GET: api/Serieses/5

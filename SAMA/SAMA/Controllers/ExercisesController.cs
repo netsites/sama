@@ -17,9 +17,9 @@ namespace SAMA.Controllers
         private SamaContext db = new SamaContext();
 
         // GET: api/Exercises
-        public IQueryable<Exercis> GetExercises()
+        public IEnumerable<Exercis> GetExercises()
         {
-            return db.Exercises;
+            return db.Exercises.ToList();
         }
 
         // GET: api/Exercises/5

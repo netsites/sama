@@ -13,10 +13,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/08/2016 11:45:21</publishTime>
     </File>
     <File Include="App_Data/aspnet-SAMA-20161108114450.mdf">
-      <publishTime>11/08/2016 13:30:20</publishTime>
+      <publishTime>11/11/2016 12:59:05</publishTime>
     </File>
     <File Include="App_Data/aspnet-SAMA-20161108114450_log.ldf">
-      <publishTime>11/08/2016 13:30:20</publishTime>
+      <publishTime>11/11/2016 12:59:05</publishTime>
     </File>
     <File Include="bin/Antlr3.Runtime.dll">
       <publishTime>02/22/2013 07:43:40</publishTime>
@@ -25,10 +25,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/08/2016 11:45:21</publishTime>
     </File>
     <File Include="bin/App_global.asax.compiled">
-      <publishTime>11/08/2016 13:32:06</publishTime>
+      <publishTime>11/11/2016 13:03:52</publishTime>
     </File>
     <File Include="bin/App_global.asax.dll">
-      <publishTime>11/08/2016 13:32:06</publishTime>
+      <publishTime>11/11/2016 13:03:52</publishTime>
+    </File>
+    <File Include="bin/aspnet-SAMA-20161108114450.mdf">
+      <publishTime>11/10/2016 15:00:53</publishTime>
+    </File>
+    <File Include="bin/aspnet-SAMA-20161108114450_log.ldf">
+      <publishTime>11/10/2016 15:00:53</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
       <publishTime>03/02/2015 08:32:26</publishTime>
@@ -142,10 +148,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/18/2015 20:19:46</publishTime>
     </File>
     <File Include="bin/SAMA.dll">
-      <publishTime>11/08/2016 13:31:25</publishTime>
+      <publishTime>11/11/2016 12:56:03</publishTime>
     </File>
     <File Include="bin/SAMA.Entities.dll">
-      <publishTime>11/08/2016 12:56:06</publishTime>
+      <publishTime>11/11/2016 11:49:09</publishTime>
     </File>
     <File Include="bin/System.Net.Http.Formatting.dll">
       <publishTime>01/28/2015 03:02:42</publishTime>
@@ -208,7 +214,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/08/2016 11:45:20</publishTime>
     </File>
     <File Include="PrecompiledApp.config">
-      <publishTime>11/08/2016 13:31:33</publishTime>
+      <publishTime>11/11/2016 13:03:45</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>11/08/2016 11:44:01</publishTime>

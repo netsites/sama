@@ -10,6 +10,7 @@ namespace SAMA.Entities
         public SamaContext()
             : base("name=SamaContext")
         {
+            this.Configuration.LazyLoadingEnabled = false;
         }
 
         public virtual DbSet<AspNetRole> AspNetRoles { get; set; }
